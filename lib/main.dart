@@ -107,6 +107,9 @@ class _MyHomePageState extends State<MyHomePage> {
             const Text('You havee pushed the button this many times:'),
             const Text('this lane have been changed by Kamal'),
             const Text('Hai haii ini siska lagi belajar ngubah'),
+            const Text('ni gueeeeeh'),
+            const Text('this lane have been changed by Ilham'),
+            
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
